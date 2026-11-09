@@ -1,3 +1,4 @@
+
 # 🔐 Cybersecurity & Penetration Testing Lab Setup
 ## 📌 Project Overview
 This project involves setting up a virtual cybersecurity laboratory using **Oracle VirtualBox and Kali Linux**. The lab provides a controlled environment for learning cybersecurity, network reconnaissance, vulnerability assessment, and authorized penetration testing.
@@ -66,3 +67,6 @@ Project: Cybersecurity & Penetration Testing Lab Setup
 Environment: VirtualBox & Kali Linux
 
 **Project Status:** Initial Lab Setup Completed
+<img width="1920" height="982" alt="Pic 6" src="https://github.com/user-attachments/assets/9ca785c3-18c5-4921-a3a6-f523c42baa48" />
+<img width="1920" height="982" alt="Pic 5" src="https://github.com/user-attachments/assets/8b016f47-0bc9-432d-90c5-55fc25b57b15" />
+<img width="1917" height="1077" alt="Pic 4" src="https://github.com/user-attachments/assets/75645d6f-9dce-458b-b8f4-f3c53f413aad" />
